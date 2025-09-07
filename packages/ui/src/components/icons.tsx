@@ -43,6 +43,7 @@ import {
   MdOutlineConfirmationNumber,
   MdOutlineContentCopy,
   MdOutlineCropFree,
+  MdOutlineDashboardCustomize,
   MdOutlineEditNote,
   MdOutlineEmail,
   MdOutlineEqualizer,
@@ -588,4 +589,5 @@ export const Icons = {
   OutgoingMail: MdOutlineSignpost,
   AttachEmail: MdOutlineAttachEmail,
   SyncAlt: MdOutlineSyncAlt,
+  DashboardCustomize: MdOutlineDashboardCustomize,
 };
